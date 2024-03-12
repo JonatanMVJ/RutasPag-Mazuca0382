@@ -26,8 +26,7 @@ samples, guidance on mobile development, and a full API reference.
 -https://docs.google.com/document/d/16TrthwuKgyS7HsZ63ixkSTv8gZ1Ln4YMMvY2UDY-gF4/edit?pli=1
 
 ## Imagenes
--![image](https://github.com/JonatanMVJ/RutasPag-Mazuca0382/assets/143743615/9be57a8f-810d-40ae-af07-be7a2eceaa6d)
--![image](https://github.com/JonatanMVJ/RutasPag-Mazuca0382/assets/143743615/63af4220-3743-4746-96c7-7ef238d405f2)
--![image](https://github.com/JonatanMVJ/RutasPag-Mazuca0382/assets/143743615/aa0ab635-9c6f-43e1-becb-9b8747243137)
-
+-![image](https://github.com/JonatanMVJ/RutasPag-Mazuca0382/assets/143743615/4e2920ae-3ddf-4d88-b471-fc21412cb6b6)
+-![image](https://github.com/JonatanMVJ/RutasPag-Mazuca0382/assets/143743615/aefc593a-8832-4661-8cdf-448e3816d6e3)
+-![image](https://github.com/JonatanMVJ/RutasPag-Mazuca0382/assets/143743615/ddd74cc0-9930-4298-b115-4973cd0d349d)
 
